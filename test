@@ -1,3 +1,4 @@
+// do the thing you do
 // error processing code
 String password = props.getProperty("db.password");
 hello world
