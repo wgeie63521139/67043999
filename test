@@ -1,3 +1,4 @@
+con=DriverManager.getConnection(url, userName, password);
 public void init(FileInputStream fs) throws ClassNotFoundException, SQLException, FileNotFoundException, IOException
 Properties props = new Properties();
 // do the thing you do
