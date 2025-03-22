@@ -1,3 +1,4 @@
+} finally {
 Properties props = new Properties();
 public class OracleJdbcTest
 Properties props = new Properties();
