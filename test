@@ -1,3 +1,4 @@
+// do the thing you do
 String driverClass = "oracle.jdbc.driver.OracleDriver";
 public static void main(String[] args)
 while (rs.next())
