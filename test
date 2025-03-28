@@ -1,3 +1,4 @@
+String driverClass = "oracle.jdbc.driver.OracleDriver";
 public static void main(String[] args)
 while (rs.next())
 test.fetch();
