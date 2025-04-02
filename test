@@ -1,3 +1,4 @@
+Connection con;
 ResultSet rs = ps.executeQuery();
 String password = props.getProperty("db.password");
 // do the thing you do
